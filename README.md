@@ -3,7 +3,7 @@ A bot designed to automate interactions with the MintChain platform, handling ac
 
 ## Warning
 
-This bot requires you to use the referral link or invite code for proper functionality. Register [HERE](https://www.mintchain.io/airdrop?inviteCode=SDQQOW1P) or use the invite code: **SDQQOW1P**.
+This bot requires you to use the referral link or invite code for proper functionality. Register [HERE](https://www.mintchain.io/mint-forest?inviteCode=73BB8B18) or use the invite code: **73BB8B18**.
 
 
 ## Features
